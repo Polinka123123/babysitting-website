@@ -1,4 +1,15 @@
-document.querySelector("form").addEventListener("submit", function(e) {
-  e.preventDefault();
-  alert("Message sent! I will get back to you soon 💗");
-});
+<section id="contact">
+    <h2>Contact Me</h2>
+
+    <p>I'd love to hear from you! Feel free to get in touch using any of the methods below.</p>
+
+    <p>📧 <strong>Email:</strong>
+        <a href="mailto:youremail@example.com">polmari5@yahoo.com</a>
+    </p>
+
+    <p>📞 <strong>Phone:</strong>
+        <a href="tel:+34681269259">+34 681 269 259</a>
+    </p>
+
+    <p>📍 <strong>Location:</strong> Marbella, Spain</p>
+</section>
